@@ -54,5 +54,5 @@ export default {
     // proxy: true
   },
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {},
+  build: {}
 }
